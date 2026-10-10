@@ -1,0 +1,10 @@
+{
+  "name": "GroqScribe - High-Speed Speech to Text Studio",
+  "description": "Ultra-fast speech-to-text converter powered by Groq Whisper, featuring live mic recording, audio file analysis, timestamped segments, and AI intelligence.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
